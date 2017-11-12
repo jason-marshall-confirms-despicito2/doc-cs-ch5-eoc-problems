@@ -1,0 +1,19 @@
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\bin\Debug\Program5_13.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\bin\Debug\Program5_13.pdb
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\obj\x86\Debug\Program5_13.Form1.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\obj\x86\Debug\Program5_13.Properties.Resources.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\obj\x86\Debug\Program5_13.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_13\obj\x86\Debug\Program5_13.pdb
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.exe
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\bin\Debug\Program5_13.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\bin\Debug\Program5_13.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_13\Program5_13\obj\x86\Debug\Program5_13.csproj.GenerateResource.Cache
