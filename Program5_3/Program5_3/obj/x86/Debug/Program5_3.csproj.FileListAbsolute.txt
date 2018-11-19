@@ -1,0 +1,9 @@
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\bin\Debug\Program5_3.exe
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\bin\Debug\Program5_3.pdb
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\obj\x86\Debug\Program5_3.csprojAssemblyReference.cache
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\obj\x86\Debug\Program5_3.Form1.resources
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\obj\x86\Debug\Program5_3.Properties.Resources.resources
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\obj\x86\Debug\Program5_3.csproj.GenerateResource.cache
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\obj\x86\Debug\Program5_3.csproj.CoreCompileInputs.cache
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\obj\x86\Debug\Program5_3.exe
+S:\repos\doc-cs-eoc5-problems-master-jason-marshall\Program5_3\Program5_3\obj\x86\Debug\Program5_3.pdb
